@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FEEDBACK FORM | NLAIYA THIRAN</title>
+
+  <link rel="stylesheet" href="../static/feedback_style.css">
+  <script src="https://kit.fontawesome.com/67c66657c7.js"></script>
+
+</head>
+<body>
+  <section></section>
+  <div class="container">
+    <h1>Give your feedback</h1>
+    <form id="details">
+      <div class="id">
+      <input type="text" placeholder="Full name">
+        <i class="far fa-user"></i>
+      </div>
+      <div class="id">
+        <input type="email" name=""  placeholder="Email address">
+        <i class="far fa-envelope"></i>
+      </div>
+      <textarea cols="15" rows="5" placeholder="Enter Your opinions here.." id="user_input"></textarea>
+      <input type="submit" onclick="showInput();" class="btn"><br/>
+      <label style="color: white"><h3>Your input:</h3> </label>
+      <p><h3 style="color: white">Message: <span id='display' style="color: white" ></span></h3></p>
+    </form>
+  </div>
+
+<br>
+<br>
+
+  <script language="JavaScript">
+    function showInput() {
+        document.getElementById('display').innerHTML = document.getElementById("user_input").value;
+        alert("your response has been stored");
+    }
+  </script>
+
+</body>
+</html>
