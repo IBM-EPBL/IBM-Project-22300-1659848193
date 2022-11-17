@@ -1,3 +1,9 @@
-flask
-numpy
-seaborn
+Flask
+werkzeug
+flask-session
+flask_cors
+pytz
+requests
+flask_pymongo
+dnspython
+pandas
