@@ -1,3 +1,4 @@
+![number of users](https://user-images.githubusercontent.com/68461595/202850537-e7891753-156f-4551-881c-923d6c0e697d.PNG)
 # IBM-Project-22300-1659848193
 <h2> 👩‍💻TEAM ID: PNT2022TMID22999</h2>
 <h1>◾ Fertilizers Recommendation System For Disease Prediction ◾</h1>
