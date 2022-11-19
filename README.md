@@ -1,5 +1,5 @@
 # IBM-Project-22300-1659848193
-Fertilizers Recommendation System For Disease Prediction
+<h2> 👩‍💻TEAM ID: PNT2022TMID22999</h2>
 <h1>◾ Fertilizers Recommendation System For Disease Prediction ◾</h1>
 <h2>PROBLEM STATEMENT: 🤔</h2>
 <p>Agriculture is the most important sector in today’s life. Most plants are affected by a wide variety of bacterial and fungal diseases. 
@@ -8,8 +8,9 @@ diseases is essential to ensure high quantity and best quality. In recent years,
 increased due to the variation in pathogen varieties, changes in cultivation methods, and inadequate plant protection techniques.</p>
 <br>
 <h2>SOLUTION: 📌</h2>
-     An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. 
-Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases.
+     <p>An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. 
+Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases.</p>
+<br>
 <h2>Developed Using: 👩‍💻 </h2>
 <ul>
 <li><a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" alt="Python"  width="40" 
